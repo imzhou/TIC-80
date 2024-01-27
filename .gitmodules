@@ -1,81 +1,81 @@
 [submodule "vendor/blip-buf"]
 	path = vendor/blip-buf
-	url = https://github.com/nesbox/blip-buf.git
+	url = git@github.com:nesbox/blip-buf.git
 	shallow = true
 [submodule "vendor/dirent"]
 	path = vendor/dirent
-	url = https://github.com/tronkko/dirent.git
+	url = git@github.com:tronkko/dirent.git
 	shallow = true
 [submodule "vendor/duktape"]
 	path = vendor/duktape
-	url = https://github.com/svaarala/duktape-releases.git
+	url = git@github.com:svaarala/duktape-releases.git
 	shallow = true
 [submodule "vendor/giflib"]
 	path = vendor/giflib
-	url = https://github.com/nesbox/giflib.git
+	url = git@github.com:nesbox/giflib.git
 	shallow = true
 [submodule "vendor/lpeg"]
 	path = vendor/lpeg
-	url = https://github.com/nesbox/lpeg.git
+	url = git@github.com:nesbox/lpeg.git
 	shallow = true
 [submodule "vendor/lua"]
 	path = vendor/lua
-	url = https://github.com/lua/lua.git
+	url = git@github.com:lua/lua.git
 	shallow = true
 [submodule "vendor/sdl-gpu"]
 	path = vendor/sdl-gpu
-	url = https://github.com/grimfang4/sdl-gpu.git
+	url = git@github.com:grimfang4/sdl-gpu.git
 	shallow = true
 [submodule "vendor/sokol"]
 	path = vendor/sokol
-	url = https://github.com/floooh/sokol.git
+	url = git@github.com:floooh/sokol.git
 	shallow = true
 [submodule "vendor/squirrel"]
 	path = vendor/squirrel
-	url = https://github.com/albertodemichelis/squirrel.git
+	url = git@github.com:albertodemichelis/squirrel.git
 	shallow = true
 [submodule "vendor/wren"]
 	path = vendor/wren
-	url = https://github.com/wren-lang/wren.git
+	url = git@github.com:wren-lang/wren.git
 	shallow = true
 [submodule "vendor/zlib"]
 	path = vendor/zlib
-	url = https://github.com/madler/zlib.git
+	url = git@github.com:madler/zlib.git
 	shallow = true
 [submodule "vendor/zip"]
 	path = vendor/zip
-	url = https://github.com/kuba--/zip.git
+	url = git@github.com:kuba--/zip.git
 	shallow = true
 [submodule "vendor/moonscript"]
 	path = vendor/moonscript
-	url = https://github.com/nesbox/moonscript.git
+	url = git@github.com:nesbox/moonscript.git
 	shallow = true
 [submodule "vendor/argparse"]
 	path = vendor/argparse
-	url = https://github.com/cofyc/argparse.git
+	url = git@github.com:cofyc/argparse.git
 	shallow = true
 [submodule "vendor/circle-stdlib"]
 	path = vendor/circle-stdlib
-	url = https://github.com/smuehlst/circle-stdlib.git
+	url = git@github.com:smuehlst/circle-stdlib.git
 	shallow = true
 [submodule "vendor/libuv"]
 	path = vendor/libuv
-	url = https://github.com/libuv/libuv.git
+	url = git@github.com:libuv/libuv.git
 	shallow = true
 [submodule "vendor/http-parser"]
 	path = vendor/http-parser
-	url = https://github.com/nodejs/http-parser.git
+	url = git@github.com:nodejs/http-parser.git
 	shallow = true
 [submodule "vendor/libpng"]
 	path = vendor/libpng
-	url = https://github.com/glennrp/libpng.git
+	url = git@github.com:glennrp/libpng.git
 	shallow = true
 [submodule "vendor/sdl2"]
 	path = vendor/sdl2
-	url = https://github.com/libsdl-org/SDL.git
+	url = git@github.com:libsdl-org/SDL.git
 [submodule "mruby"]
 	path = vendor/mruby
-	url = https://github.com/mruby/mruby.git
+	url = git@github.com:mruby/mruby.git
 [submodule "vendor/wasm3"]
 	path = vendor/wasm3
-	url = https://github.com/wasm3/wasm3.git
+	url = git@github.com:wasm3/wasm3.git
